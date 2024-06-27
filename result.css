@@ -1,1 +1,5 @@
-id {}
+input #id {
+  pointer-events:none;
+  color:#AAA;
+  background:red;
+}
