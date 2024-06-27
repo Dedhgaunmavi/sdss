@@ -1,5 +1,4 @@
-input {
-  pointer-events:none;
-  color:#AAA;
-  background:red;
-}
+input[type="number"] {
+    pointer-events: none;
+    opacity: 0.5; /* Makes the input look disabled */
+  }
