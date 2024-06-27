@@ -1,4 +1,4 @@
-input[type="number"] {
+#id{
     pointer-events: none;
     opacity: 0.5; /* Makes the input look disabled */
   }
