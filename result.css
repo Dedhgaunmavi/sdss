@@ -1,9 +1,7 @@
-/* #id{
-    pointer-events: none;
-    opacity: 0.5;*/ /* Makes the input look disabled */
-  }/*
-.btn{
+
+#btn{
 pointer-events: none;
 opacity: 0.5;*/ /* Makes button look disabled */
-} */
+} 
+/* Change inplace of #btn to .btn for deactive button. */
 
