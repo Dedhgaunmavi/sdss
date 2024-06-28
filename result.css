@@ -1,9 +1,9 @@
 /* #id{
     pointer-events: none;
-    opacity: 0.5; /* Makes the input look disabled */
-  }
+    opacity: 0.5;*/ /* Makes the input look disabled */
+  }/*
 .btn{
 pointer-events: none;
-opacity: 0.5;/* Makes button look disabled */
+opacity: 0.5;*/ /* Makes button look disabled */
 } */
 
